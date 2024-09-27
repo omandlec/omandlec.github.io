@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://omandlec.github.io/sitemap.omandlec.gz
+Sitemap: https://omandlec.github.io/app/sitemap.omandlec.gz
+Sitemap: https://omandlec.github.io/assets/sitemap.omandlec.gz
+Sitemap: https://omandlec.github.io/css/sitemap.omandlec.gz
+Sitemap: https://omandlec.github.io/data/sitemap.omandlec.gz
+Sitemap: https://omandlec.github.io/includes/sitemap.omandlec.gz
+Sitemap: https://omandlec.github.io/item/sitemap.omandlec.gz
+Sitemap: https://omandlec.github.io/src/sitemap.omandlec.gz
